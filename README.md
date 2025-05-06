@@ -50,16 +50,16 @@ brainTumorDetection/
 ├── README.md                   # This file
 └── /dataset/                   # Folder containing MRI images (not uploaded here)
 
-## ▶️ To Run
+# ▶️ To Run
 
-###Clone the repository
+#Clone the repository
 git clone https://github.com/<your-username>/brainTumorDetection.git
 cd brainTumorDetection
 
-### Run the notebook
+# Run the notebook
 jupyter notebook brainTumorDetection.ipynb
 
-## 📌 Future Work
+# 📌 Future Work
 
 - Hyperparameter tuning using Keras Tuner or GridSearch.
 - Multi-class tumor classification (e.g., glioma, meningioma).
